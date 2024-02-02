@@ -256,6 +256,10 @@ h6 {
   z-index: 1;
 }
 
+#hero .particles{
+  position: absolute;
+}
+
 #hero .hero-container {
   position: relative;
   z-index: 2;
