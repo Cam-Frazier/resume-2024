@@ -283,17 +283,17 @@ var ball = {
       phase: 0
    },
    ball_color = {
-       r: 207,
-       g: 255,
-       b: 4
+       r: 20,
+       g: 157,
+       b: 221
    },
-   R = 2,
+   R = 3,
    balls = [],
    alpha_f = 0.03,
    alpha_phase = 0,
     
 // Line
-   link_line_width = 0.8,
+   link_line_width = 1.5,
    dis_limit = 260,
    add_mouse_point = true,
    mouse_in = false,
